@@ -14,4 +14,6 @@ HAL :\
 MCAL :\
 -DIO\
 -TMR0 CTC\
--EXTI(extrnal interrupt)
+-EXTI(extrnal interrupt)\
+you can find simulation video record her : https://drive.google.com/file/d/131vsxRuGKGxo0fpkK3hMjrtHsQEz1Ros/view?usp=sharing
+
